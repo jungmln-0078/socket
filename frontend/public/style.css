@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+span {
+  width: 100%;
+  height: 50%;
+}
+#msgInput {
+  width: 100%;
+}
